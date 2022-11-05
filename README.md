@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mondo1138
 - 👀 I’m interested in programming, reading, theater, and more!
-- 🌱 I’m currently learning python, C+
+- 🌱 I’m currently learning python & C+
 - 💞️ I’m not looking to collaborate, sorry!
 - 📫 How to reach me: email aznmondo@gmail.com
 
